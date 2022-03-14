@@ -1,7 +1,7 @@
 ---
 title: "Arch Linuxメモ パーティション MBR"
 emoji: "📚"
-type: "idea"
+type: "tech"
 topics: ["linux", "arch"]
 published: true
 ---
