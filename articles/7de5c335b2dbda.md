@@ -1,5 +1,5 @@
 ---
-title: "Arch Linuxメモ3"
+title: "Arch Linuxメモ パーティション MBR"
 emoji: "📚"
 type: "idea"
 topics: ["linux", "arch"]
